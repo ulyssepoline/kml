@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Camera>
+            <longitude>15.046843528747559</longitude>
+            <latitude>35.128793716430664</latitude>
+            <altitude>20000000.0</altitude>
+            <tilt>0</tilt>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <roll>0</roll>
+        </Camera>
+        <GroundOverlay id="3">
+            <name>Mean Wind Speed [m/s]</name>
+            <visibility>1</visibility>
+            <atom:author>ocefpaf</atom:author>
+            <description>Matplotlib figure</description>
+            <color>9effffff</color>
+            <drawOrder>1</drawOrder>
+            <Icon id="5">
+                <href>europe.png</href>
+            </Icon>
+            <gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+            <LatLonBox>
+                <north>36.95549011230469</north>
+                <south>33.30209732055664</south>
+                <east>0.0</east>
+                <west>30.093687057495117</west>
+                <rotation>0</rotation>
+            </LatLonBox>
+        </GroundOverlay>
+    </Document>
+</kml>
